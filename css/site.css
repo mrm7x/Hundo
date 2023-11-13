@@ -1,5 +1,5 @@
 :root{
-    --primary-color: #1d5888;
+    --primary-color: #002544;
     --secondary-color: #fcff3b;
     --dark-color: #1a1a1a;
     --white-color: #dadada;
@@ -25,6 +25,8 @@ footer .social>a{
 
 h1,h2,h3,h4,h5,h6 {
     color: var(--primary-color);
+    font-family: 'Racing Sans One', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 main>.container {
@@ -68,4 +70,8 @@ code[class*="language-"],
 
 .cssicon{
     color: rgb(33,76,229)
+}
+
+.logoFont{
+    font-family: 'Racing Sans One', sans-serif;
 }

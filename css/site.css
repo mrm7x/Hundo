@@ -39,6 +39,13 @@ footer .social>a:hover{
     color: var(--secondary-color);
 }
 
+.odd{
+    font-weight: 100;
+}
+
+.even{
+    font-weight: bolder;
+}
 .sticky-footer {
     position: sticky;
     left: 0;
